@@ -2,8 +2,11 @@
 # Bends
 
 This notebook contains the formulas to obtain the coordinates of different kinds of curves. Here you can find the comments for each function and how to use it.
+In the Jupyter Notebook <code>OPO_curves</code>  you can find the functions and the plots of the curves we used for the design of Linearly Uncoupled Resonator for OPO. 
+
 
 ## Overview example
+
 In the Jupyter Notebook <code>Euler'sbend&co.ipynb</code>  you can find a brief explanation of the used formulas and the plots for each curve (considering generic parameters). 
 In the notebook <code>Sbend.ipynb</code> you will find a more detailed description of the S-bends, with comparison between different types of S-bends, along with the functions to plot a series of S-bends. You can 
 
