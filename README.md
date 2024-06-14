@@ -171,6 +171,3 @@ x,y= curve.calc_curve()
 where the coordinates of the two central points are controlled by varying the parameter B.
 
 
-
-## Big rings
-In the  Jupyter Notebook <code>Big_rings.ipynb</code>  you can find a specific application of these functions to the design of two big rings.
